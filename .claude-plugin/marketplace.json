@@ -1,0 +1,11 @@
+{
+  "name": "claude-orbit-usage-theme",
+  "owner": { "name": "Yitao-Wang01" },
+  "plugins": [
+    {
+      "name": "orbit-usage",
+      "source": "./",
+      "description": "The Low Orbit scene with your Claude plan usage flown into it: a ship on a low orbit for the 5-hour limit and a satellite on a high one for the week."
+    }
+  ]
+}

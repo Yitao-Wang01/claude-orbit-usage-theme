@@ -1,0 +1,8 @@
+{
+  "name": "orbit-usage",
+  "version": "0.1.0",
+  "description": "The Low Orbit scene with your Claude plan usage flown into it: a ship on a low orbit for the 5-hour limit and a satellite on a high one for the week.",
+  "license": "MIT",
+  "keywords": ["theme", "backdrop", "usage"],
+  "types": "./types/index.d.ts"
+}
